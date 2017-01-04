@@ -8,3 +8,10 @@
 
 **Link to work:** [Pomodoro Clock](https://github.com/rashmimalpande/Pomodoro-Clock)
 
+### Day 2: January 4, 2017
+
+**Today's Progress**: I tried to implement the countdown timer, but implemented just the session timer (considering its in seconds).
+
+**Thoughts:** Not much progress today. Tomorrow I will try to implement the countdown timer functionality so that it starts the break after session is completed.
+
+**Link to work:** [Pomodoro Clock](https://github.com/rashmimalpande/Pomodoro-Clock)
