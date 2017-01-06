@@ -15,3 +15,13 @@
 **Thoughts:** Not much progress today. Tomorrow I will try to implement the countdown timer functionality so that it starts the break after session is completed.
 
 **Link to work:** [Pomodoro Clock](https://github.com/rashmimalpande/Pomodoro-Clock)
+
+### January 5, 2017 skipped
+
+### Day 3: January 6, 2017
+
+**Today's Progress**: The clock works as expected but the countdown timer is displayed in seconds.
+
+**Thoughts:** Major portion of the app is working as expected. Pretty happy with it. Taking small steps to finish it.
+
+**Link to work:** [Pomodoro Clock](https://github.com/rashmimalpande/Pomodoro-Clock)
