@@ -25,3 +25,11 @@
 **Thoughts:** Major portion of the app is working as expected. Pretty happy with it. Taking small steps to finish it.
 
 **Link to work:** [Pomodoro Clock](https://github.com/rashmimalpande/Pomodoro-Clock)
+
+### Day 4: January 7, 2017
+
+**Today's Progress**: The clock is almost finished.Need to fix some minor issues.
+
+**Thoughts:** The clock is 99% done. The only issue is seconds countdown shows 60 after 0.
+
+**Link to work:** [Pomodoro Clock](https://github.com/rashmimalpande/Pomodoro-Clock)
