@@ -33,3 +33,35 @@
 **Thoughts:** The clock is 99% done. The only issue is seconds countdown shows 60 after 0.
 
 **Link to work:** [Pomodoro Clock](https://github.com/rashmimalpande/Pomodoro-Clock)
+
+### Day 5: January 8, 2017
+
+**Today's Progress**: Not much coding. Trying to understand more about directives and services in AngularJs.
+**Thoughts:** I am trying to tidy up my Pomodoro clock code. 
+
+January 9, 2017 To January 21, 2017 - Skipped due to Travelling.
+
+### Day 6: January 22, 2017
+
+**Today's Progress**: Created a basic site in django.
+
+**Thoughts:** Thinking of moving onto python and django after my Free Code Camp projects.
+
+### Day 7: January 23, 2017
+
+**Today's Progress**: I am stuck with my Pomodoro Clock. Not much progress today.
+
+**Thoughts:** I have tried too many things today. Nothing is working. I will continue with this with fresh mind tomorrow.
+
+**Link to work:** [Pomodoro Clock](https://github.com/rashmimalpande/Pomodoro-Clock)
+
+### Day 8: January 24, 2017
+
+**Today's Progress**: Finally completed my Pomodoro Clock after so much struggle.
+
+**Thoughts:** Feeling great. This project was difficult and I finally finished it. Yay!!! Now onto Tic Tac Toe.
+
+**Link to work:** [Pomodoro Clock](https://github.com/rashmimalpande/Pomodoro-Clock)
+
+
+
