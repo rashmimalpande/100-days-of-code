@@ -63,5 +63,55 @@ January 9, 2017 To January 21, 2017 - Skipped due to Travelling.
 
 **Link to work:** [Pomodoro Clock](https://github.com/rashmimalpande/Pomodoro-Clock)
 
+### Day 9: January 25, 2017
+
+**Today's Progress**: Started my Tic Tac toe project from FreeCodeCamp
+
+**Thoughts:** Created a basic styling & functionality for the first screen.
+
+**Link to work:** [Tic Tac Toe](https://github.com/rashmimalpande/Tic-Tac-Toe)
+
+### Day 10: January 26, 2017
+
+**Today's Progress**: Created a second screen to choose a symbol for the game.
+
+**Thoughts:** Now getting some ideas on how to progress. I am going to do this project a bit everyday and work on other projects too.
+
+**Link to work:** [Tic Tac Toe](https://github.com/rashmimalpande/Tic-Tac-Toe)
+
+### Day 11: January 27, 2017
+
+**Today's Progress**: Still working on tic tac toe. Spent some time on its styling. And also learned a bit about vuejs.
+
+**Thoughts:** Not much progress today.
+
+**Link to work:** [Tic Tac Toe](https://github.com/rashmimalpande/Tic-Tac-Toe)
+
+
+### Day 12: January 28, 2017
+
+**Today's Progress**: Created a simple blog with python and django.
+
+**Thoughts:** Django is fun. I will create a full fledged blog soon.
+
+### Day 13: January 29, 2017
+
+**Today's Progress**: Learned about the canvas element in HTML5. Need to draw a game board for tic tac toe.
+
+**Thoughts:** Tried creating a board but need to work on it a bit.
+
+**Link to work:** [Tic Tac Toe](https://github.com/rashmimalpande/Tic-Tac-Toe)
+
+### Day 14: January 30, 2017
+
+**Today's Progress**: Created the game board with canvas for tic tac toe and also created a Markdown Previewer with VueJs.
+
+**Thoughts:** Today was a very productive day. Getting motivations & ideas to work on. Also I like Vuejs.
+
+**Link to work:** [Markdown Previwer](https://github.com/rashmimalpande/Markdown-Previewer)
+
+
+
+
 
 
