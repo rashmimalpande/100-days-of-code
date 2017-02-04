@@ -111,6 +111,41 @@ January 9, 2017 To January 21, 2017 - Skipped due to Travelling.
 **Link to work:** [Markdown Previwer](https://github.com/rashmimalpande/Markdown-Previewer)
 
 
+### Day 15: January 31, 2017
+
+**Today's Progress**: Created small programs with vuejs.
+
+**Thoughts:** Learning the basic concepts of vuejs. Thinking of projects to create with it.
+
+### Day 16: February 01, 2017
+
+**Today's Progress**: Created small programs with vuejs.
+
+**Thoughts:** Still Learning the basic concepts of vuejs. Can't think of projects to create.
+
+### Day 17: February 02, 2017
+
+**Today's Progress**: Solved the nodejs problems from FreeCodeCamp
+
+**Thoughts:** I am trying to do backend problems too simultaneously. Enjoying it.
+
+### Day 18: February 03, 2017
+
+**Today's Progress**: Solved few more nodejs problems from FreeCodeCamp
+
+**Thoughts:** Almost done with nodejs challenges. Excited for API challenges.
+
+### Day 19: February 04, 2017
+
+**Today's Progress**: Started creating the camper leaderboard challenge from freecodecamp with Vuejs.
+
+**Thoughts:** Just created the leaderboard with some fake data. Now need to add the filter functionality.
+
+**Link to work:** [Camper Leaderboard](https://github.com/rashmimalpande/Camper-Leaderboard)
+
+
+
+
 
 
 
