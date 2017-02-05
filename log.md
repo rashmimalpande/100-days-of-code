@@ -143,6 +143,16 @@ January 9, 2017 To January 21, 2017 - Skipped due to Travelling.
 
 **Link to work:** [Camper Leaderboard](https://github.com/rashmimalpande/Camper-Leaderboard)
 
+### Day 20: February 05, 2017
+
+**Today's Progress**: Finished my Camper Leaderboard app with vuejs. Also started the api projects from freecodecamp.
+
+**Thoughts:** Really productive day. Finished one app and now also learning backend javascript. Its really fun.
+
+**Link to work:** 
+[Camper Leaderboard](https://github.com/rashmimalpande/Camper-Leaderboard)
+[Timestamp API](https://github.com/rashmimalpande/timestamp-api)
+
 
 
 
