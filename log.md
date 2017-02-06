@@ -153,6 +153,14 @@ January 9, 2017 To January 21, 2017 - Skipped due to Travelling.
 [Camper Leaderboard](https://github.com/rashmimalpande/Camper-Leaderboard)
 [Timestamp API](https://github.com/rashmimalpande/timestamp-api)
 
+### Day 21: February 06, 2017
+
+**Today's Progress**: Finished my Timestamp Microservice API project from freecodecamp.
+
+**Thoughts:** Creating apis is not easy and its definitely fun.
+
+**Link to work:** [Timestamp API](https://github.com/rashmimalpande/timestamp-api)
+
 
 
 
