@@ -161,6 +161,15 @@ January 9, 2017 To January 21, 2017 - Skipped due to Travelling.
 
 **Link to work:** [Timestamp API](https://github.com/rashmimalpande/timestamp-api)
 
+### Day 22: February 07, 2017
+
+**Today's Progress**: Finished the second Timestamp Microservice API project from freecodecamp.
+
+**Thoughts:** Completed the second api and deployed both of them on heroku.
+
+**Link to work:** [Timestamp API](https://rm-timestamp-service.herokuapp.com/December%2015,%202017)  
+[WhoAmI API](https://rm-whoami.herokuapp.com/api/whoami)
+
 
 
 
