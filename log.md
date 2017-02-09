@@ -170,6 +170,21 @@ January 9, 2017 To January 21, 2017 - Skipped due to Travelling.
 **Link to work:** [Timestamp API](https://rm-timestamp-service.herokuapp.com/December%2015,%202017)  
 [WhoAmI API](https://rm-whoami.herokuapp.com/api/whoami)
 
+### Day 23: February 08, 2017
+
+**Today's Progress**: Started creating the third backend api project from freecodecamp
+
+**Thoughts:** Getting the hang of node & express but still not sure about how to create a whole application.
+
+### Day 24: February 09, 2017
+
+**Today's Progress**: FInished the third backend api project - URL Shortner from freecodecamp
+
+**Thoughts:** Getting the hang of node & express but still not sure about how to create a whole application.
+
+**Link to work:** [Url Shortner API](https://rm-url-shortner.herokuapp.com/new/https://www.google.com)  
+
+
 
 
 
