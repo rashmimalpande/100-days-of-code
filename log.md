@@ -184,6 +184,32 @@ January 9, 2017 To January 21, 2017 - Skipped due to Travelling.
 
 **Link to work:** [Url Shortner API](https://rm-url-shortner.herokuapp.com/new/https://www.google.com)  
 
+### Day 25: February 10, 2017
+
+**Today's Progress**: Learning more about nodejs.
+
+**Thoughts:** More concepts are getting clearer.
+
+### Day 26: February 11, 2017
+
+**Today's Progress**: Created a simple blog theme in Wordpress
+
+**Thoughts:** I am also interested in Wordpress development. First steps.
+
+### Day 27: February 13, 2017
+
+**Today's Progress**: Learning more about Vuejs
+
+**Thoughts:** The laracasts video tutorials are damn good.
+
+### Day 28: February 14, 2017
+
+**Today's Progress**: learned about VueJs components
+
+**Thoughts:** Vuejs is a really easy to understand framework.
+**Link to work:** [Vue Message Component](https://github.com/rashmimalpande/Vue-Message-Component)  
+
+
 
 
 
